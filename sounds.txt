@@ -1,0 +1,51 @@
+2
+Evolve
+Imagine Dragons
+images/album1.jpg
+2
+9
+I Don't Know Why
+album1/idontknowwhy.mp3
+Whateverittakes
+album1/whateverittakes.mp3
+Believer
+album1/believer.mp3
+Walking The Wire
+album1/walkingthewire.mp3
+Rise Up
+album1/riseup.mp3
+I'll Make It Up To You
+album1/illmakeituptoyou.mp3
+Yesterday
+album1/yesterday.mp3
+Mouth Of The River
+album1/mouthoftheriver.mp3
+Thunder
+album1/thunder.mp3
+A Moon Shaped Pool
+Radiohead
+images/album2.jpg
+3
+11
+Burn The Witch
+album2/burnthewitch.mp3
+Daydreaming
+album2/daydreaming.mp3
+Decks Dark
+album2/decksdark.mp3
+Desert Island Disk
+album2/desertislanddisk.mp3
+Ful Stop
+album2/fulstop.mp3
+Glass Eyes
+album2/glasseyes.mp3
+Identikit
+album2/identikit.mp3
+Present Tense
+album2/presenttense.mp3
+The Numbers
+album2/thenumbers.mp3
+Tinker Tailor Soldier Sailer
+album2/tinkertailor.mp3
+True Love Waits
+album2/truelovewaits.mp3
